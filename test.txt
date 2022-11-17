@@ -1,0 +1,343 @@
+Energy and Environmental Implications of Hybrid and
+Electric Vehicles in China
+Jianlei Lang 1
+, Shuiyuan Cheng 1,*, Ying Zhou 1
+, Beibei Zhao 1
+, Haiyan Wang 1
+ and
+Shujing Zhang 2
+1
+ College of Environmental and Energy Engineering, Beijing University of Technology,
+Beijing 100124, China; E-Mails: jllang@emails.bjut.edu.cn (J.L.); y.zhou@bjut.edu.cn (Y.Z.);
+zhaobeibei95@emails.bjut.edu.cn (B.Z.); why@bjut.edu.cn (H.W.)
+2
+ Beijing Municipal Institute of Labour Protection, Beijing 100054 China;
+E-Mail: jelly7979@yahoo.com.cn
+* Author to whom correspondence should be addressed; E-Mail: chengsy@bjut.edu.cn;
+Tel.: +86-10-6739-1656; Fax: +86-10-6739-1983.
+Received: 14 December 2012; in revised form: 4 April 2013 / Accepted: 12 April 2013 /
+Published: 22 May 2013
+Abstract: The promotion of hybrid and electric vehicles (EVs) has been proposed as one
+promising solution for reducing transport energy consumption and mitigating vehicular
+emissions in China. In this study, the energy and environmental impacts of hybrid and EVs
+during 2010–2020 were evaluated through an energy conversion analysis and a life cycle
+assessment (LCA), and the per-kilometer energy consumptions of gasoline, coal, natural
+gas (NG), oil, biomass, garbage and electricity for EVs and HEVs were estimated. Results
+show that the EVs and HEVs can reduce the energy consumption of vehicles by national
+average ratios of 17%–19% and 30%–33%, respectively. The study also calculated the
+detailed emission factors of SO2, NOX, VOC, CO, NH3, PM10, PM2.5, OC, EC, CO2, N2O,
+CH4, Pb and Hg. It is indicated that the HEVs can bring significant reductions of NOX,
+VOC and CO emissions and lesser decreases of SO2 and CO2 for a single vehicle. The EVs
+could decrease many of the VOC, NH3, CO and CO2 emissions, but increase the SO2, NOX
+and particles by 10.8–13.0, 2.7–2.9 and 3.6–11.5 times, respectively. In addition, the
+electricity sources had significant influence on energy consumption (EC) and emissions. A
+high proportion of coal-fired energy resulted in large ECs and emission factors. The total
+energy consumption and pollutants emission changes in 2015 and 2020 were also
+calculated. Based on the energy use and emission analysis of HEVs and EVs, it is
+suggested that EVs should be promoted in the regions with higher proportions of
+OPEN ACCESS
+Energies 2013, 6 2664
+hydropower, natural gas-fired power and clean energy power, while HEVs can be widely
+adopted in the regions with high coal-fired power ratios. This is to achieve a higher energy
+consumption reduction and pollutant emission mitigation. Moreover, the results can also
+provide scientific support for the total amount control of regional air pollutants in China.
+Keywords: air pollutants; greenhouse gases; emission factors; energy consumption;
+policy assessment
+1. Introduction
+Motor vehicles represent a major oil consumption sector and their number has experienced a sharp
+growth in China during the past decade. The number of vehicles has grown from 42 million in 2000 to
+nearly 200 million in 2010, and as a consequence, the gasoline consumption has increased from
+13.9 million tons in 2000 up to 32.0 million tons, which accounts for 46.5% of the total gasoline use in
+2010 [1,2]. Furthermore, according to the previous studies this number may be even underestimated [3,4].
+However, more than half (about 53.4%) of the crude oil used in China was imported from other
+countries [5], and this high import ratio will greatly impact the energy security and economic
+development of China, making the reduction of the gasoline consumption with the sharp increase of
+vehicle numbers an important but difficult problem to solve. On the other hand, motor vehicles are also
+a major contributor to the air pollutants and greenhouse gas emissions [6,7], and it exert a significant
+adverse influence on the air pollution and human health [8,9]. As a result, the mitigation of vehicular
+emissions will play a vital role in the improvement of air quality and public health. However,
+Lang et al. [10] found that although the implementations of numbers of emission mitigation measures
+(such as the implementation of stringent vehicular emission standards, the elimination of high emission
+vehicles, the development of public transport, and the enhancement of fuel quality) have produced
+remarkable results in decreasing the level of most of the vehicular emissions, the rate decrease is still
+proving to be slow and the level of some of the pollutants emissions has even gone up due to a rapid
+growth in the vehicle population. Other control measures should be studied and implemented to
+achieve a higher emission mitigation effect. In the context of saving transport energy consumption and
+reducing air pollutant and greenhouse gas emissions, the promotion of electric vehicles (EVs) was
+proposed as one effective solution to the high energy use and pollutant emission problems. Consequently,
+the study of actual energy and environmental implications of EVs is of great importance and necessity,
+in order to provide a scientific basis for the development of a strategy for promoting EVs.
+A number of studies have been carried out worldwide to assess the impacts of hybrid and electric
+vehicles on energy and environment. Campanari et al. [11] studied the energy balances for electric
+vehicles using batteries and fuel cells based on a well-to-wheel (WTW) analysis and the ECE-EUDC
+driving cycle simulations. The analysis showed that EVs equipped with fuel cells could give better
+performance in the medium-to-long driving range than that of those with pure batteries. Stephan and
+Sullivan [12] analyzed the environmental effect of promoting plug-in hybrid electric vehicles (PHEVs)
+in the United States and found that compared to the conventional HEVs, PHEVs could reduce 25% and
+50% of CO2 emissions in the short term and in the long term, respectively. Hawkins et al. [13]
+Energies 2013, 6 2665
+synthesized the results of previous studies and compared the global warming potential (GWP) of EVs
+and CGVs. It was concluded that although EVs could lead to a reduction of GWP compared to CGVs,
+high efficiency CGVs and grid-independent HEVs perform better than EVs using coal-fired electricity.
+Huo et al. [14] evaluated the potential impact of nine alternative vehicle/fuel systems on the
+environment. The Greenhouse gases, Regulated Emissions and Energy use in Transport (GREET)
+model was used to estimate the emissions of VOC, NOX, PM10, PM2.5 and CO of different alternative
+systems by a life-cycle analysis. A few more studies were conducted on the EVs’ environment and
+energy implications in China. Huo et al. [15] examined the fuel-cycle CO2, SO2 and NOX emissions of
+EVs and found that if connected to the current electricity grid in China, EVs could produce higher SO2
+and NOX emissions than those resulting from gasoline vehicles. Wu et al. [16] selected three developed
+regions (Beijing-Tianjin-Hebei, Yangtze-River-Delta and Pearl-River-Delta) in China and evaluated
+the influences of EVs, HEVs and PHEVs in terms of their fossil energy consumptions and per-kilometer
+CO2 emissions during 2010–2030. It was found that the promotion of PHEVs and EVs could help cut
+per-kilometer petroleum use to a great extent; however, it makes the CO2 emission mitigation becomes
+even more difficult to achieve. The evaluation of HEVs emissions were also studied in [17].
+However, most of the previous studies focus on limited types of the powers or pollutants. It is
+necessary to conduct a comprehensive quantitative evaluation of the energy and environment
+implications for EVs and HEVs through a life cycle assessment (LCA) in China. The purpose of this
+study is to estimate the energy and environment impacts from the view points of different power
+generation methods and various pollutants in the city driving condition. The considering internal
+combustion engine vehicles (ICEVs) were new conventional light duty gasoline vehicles (CGVs)
+(compact cars). Emissions and energy consumptions of five types of power generation methods (including
+coal-, natural gas (NG)-, oil-, biomass- and garbage-powers) were considered. The per-kilometer
+energy consumption (PKEC) of gasoline, coal, NG, oil, biomass, garbage and electricity of EVs and
+HEVs were calculated. Emission factors of four main categories and 14 sub-categories were estimated,
+including gaseous pollutants (SO2, NOX, VOC, CO and NH3), particles (PM10, PM2.5, OC and EC),
+greenhouse gases (CO2, N2O and CH4) and heavy metals (Pb and Hg). Furthermore, the total energy
+consumption and emission changes caused by the penetration of EVs and HEVs in 2015 and 2020 in
+China were evaluated. The results can provide scientific support for the policy of wide-spread adoption
+of EVs and HEVs. The detailed PKEC for different fuels and the emission factors of various pollutants
+can also provide sound basic data for relevant studies on vehicles and transport.
+2. Data and Methodology
+2.1. Electricity Generation in China
+The electricity consumption in China has increased rapidly in recent years. It grew from 1360 TWh
+in 2000 to 4200 TWh in 2010. This rapid growth of electricity demand has resulted in a corresponding
+increase in electricity production. The electricity production and installed capacity have reached
+4219 TWh and 960 GW in 2010, which were 308% and 301% of those in 2000, respectively [18,19].
+Based on the differences of energy sources, there are basically five electricity generation methods:
+hydropower, fuel-fired power (including coal, oil, NG, biomass, garbage and other fuels), nuclear
+power, wind power and others (mainly include geothermal, tidal and solar power generations).
+Energies 2013, 6 2666
+Among all these electricity generation methods, fuel-fired power was the dominant one, accounting
+for 80.8% of the total electricity production and 67.3% of the total installed capacity in 2010 (see
+Figure 1). In particular, coal was the main fuel used and the proportions of coal-fired power in the total
+electricity production and in the total installed capacity were 76.2 and 67.3%, respectively. The ratios
+of oil-, NG-, biomass- and garbage-fired power were 0.4%, 1.8%, 0.2% and 1.1% of the total
+electricity production, and 0.9%, 2.8%, 0.2% and 1.0% of the total installed capacity, respectively.
+Hydropower was another important contributor to the electricity production in China. It accounted for
+16.3% of the total electricity production and 22.5% of the total installed capacity in 2010. In the three
+typical regions—Beijing-Tianjin-Hebei (BTH), Yangtze River Delta (YRD) and Pearl River Delta
+(PRD), the proportions of coal- and natural gas-fired power were 94.8% and 0.8%, 86.5% and 2.2%,
+60.2% and 3.1%, respectively.
+Figure 1. Proportion of electricity productions and installed capacity in different power
+generation methods (Others mainly includes geothermal, tidal and solar power generation).
+ Hydropower
+ Coal
+ Oil
+ Natural gas
+ Biomass
+ Garbage
+ Other fuel
+ Nuclear
+ Wind
+ Others
+(a) Installed capacity (b) Electricity production
+The energy conversion efficiency (ECE) and transmission efficiency (TE) are important parameters
+for estimating the energy consumption and emissions of EVs. The coal consumption rates were 0.367,
+0.357, 0.349 and 340 gce/kWh (gram of standard coal equivalent per kWh) in 2006, 2007, 2008 and
+2010, respectively [20,21]. The calorific values (CVs) of coal equivalent and electricity are 29,271 kJ/kg
+and 3,600 kJ/kWh, respectively. As a result, the ECE in coal power generation was about 36.2% in
+2010. The coal consumption can decrease to 330 g/kWh and the ECE will become 37.3% in 2015 [21].
+Based on the change trends of the ECE during the past several years, we assumed the ECE will
+increase to 39.9% in 2020. The value was between the ECE of India (38.8%) and Japan (42.0%) in
+2008 [22]. The ECEs of NG, oil, biomass and garbage in 2010 were 41.4, 37.0, 29.5 and 17.0%,
+respectively [22–24]. The ECEs of these fuels in 2015 and 2020 were estimated based on the ECEs in
+2010 and the ECE change rates of coal in 2010, 2015 and 2020, due to the lack of the study on the
+ECEs of NG-, oil-, biomass- and garbage-fired electricity in the future of China. Many measures will
+be adopted to improve the ECE in power generation [19]. For example, the power generation units
+with small installed capacities and low ECE will be gradually closed down in the following decade.
+Advanced technologies and new equipments which can increase the ECE will also be used in the new
+power plants. These will help to improve the energy conversion efficiency of power generation to a
+Energies 2013, 6 2667
+great extent. The ECEs of coal and other fuels are listed in Table 1. The TE in China has been increasing
+during the past several years, from 92.30% in 2000 to 93.47% in 2010 [18,19], and by taking measures
+such as optimizing the power distribution and sources network and improving the running mode, the
+TE will grow up to about 93.50% in 2015 [21]. The value in 2020 was also assumed as 93.50%.
+Table 1. Energy conversion efficiencies (ECEs) of different fuels during the electricity
+generation processes (%).
+Years Coal NG Oil Biomass Garbage
+2010 36.2 [21] 41.4 [22] 37.0 [22] 29.5 [23] 17.0 [24]
+2015 37.3 [21] 42.7 b
+ 38.1 b
+ 30.4 b
+ 17.5 b
+2020 39.9 a
+ 45.7 b
+ 40.8 b
+ 32.5 b
+ 18.8 b
+Notes: a
+ Assumed by authors based on the ECE of coal during the past several years and the study results in
+reference [21]; b
+ The ECEs of NG, oil, biomass and garbage were estimated based on the ECEs in 2010 and
+ECE change rates for coal in 2010, 2015 and 2020.
+2.2. Energy Consumption Calculation
+The energy consumption for a single electric vehicle (EV) can be calculated by Equations (1)–(4):
+1 _ () ENG U ENG CV e e tg η η − = × ×× (1)
+1 _ 1( ) 1 ENG P η η ext ref
+− =× × − (2)
+_ ii i
+i
+ENG T EI R D = ××  (3)
+ENG ENG U ENG U ENG P ENG T =+× + _ _ ( _ _) (4)
+where ENG, ENG_U, ENG_P and ENG_U are the energy consumptions for a single EV and for the
+stages of fuels (coal, NG, oil, biomass and garbage) usage, production (extraction and refining) and
+transportation, in units of MJ/km, MJ/km, MJ/MJ and MJ/MJ, respectively; ENGe represents the
+electricity consumption for a single EV per km, in unit of kWh/km; CVe means the calorific value (CV)
+of electricity, MJ/kWh; ηg, ηt, ηext and ηref are the energy efficiencies of power generation, power
+transmission, fuel extraction and fuel refinery, respectively; i represents different transportation mode,
+including sea tanker, rail, pipeline, waterway and road transport; EI, R and D are the energy intensity,
+ratio and distance for each transportation mode. The energy conversion efficiencies of different stages
+can be found in Tables 1 and 2. The transmission efficiencies have been described in Section 2.1. The
+electricity consumption for a single EV is listed in Table 3. The energy intensity, ratio and distance are
+shown in Table 4. The energy consumptions during the fuels production and transportation are listed in
+Table 5. The energy consumption of EV can also be transformed from MJ/km to kg/km through the
+calorific values (CVs) of electricity and different fuels as listed in Table 6.
+Table 2. Energy conversion efficiencies during the fuels’ extraction and refinery stage (%) [25].
+Production stages Coal NG Oil
+Extraction 97.0 96.0 93.0
+Refining 97.0 94.0 89.4
+Energies 2013, 6 2668
+Table 3. Energy consumption for a single vehicle in China.
+Vehicle types CGVs HEVs EVs
+Energies (unit) Gasoline (L/100 km) Electricity (kWh/100 km)
+Year
+2010 8.0 [15] 5.6 [15] 24.0 [15]
+2015 7.4 a
+ 5.1 c
+ 23.0 a
+2020 6.8 a
+ 4.5 b
+ 22.0 a
+Notes: a
+ The values were calculated by linear interpolation based on the energy consumptions gave in
+reference [15] in 2008 and in 2030, and the estimation of the value has considered the charging efficiency;
+b
+ In the Energy Saving and New Energy Vehicles Development Planning (2012–2020) document [26], the
+gasoline consumption should decrease to 4.5 L/100 km for fuel-efficient vehicles; c
+ Estimated as the mean
+value of gasoline consumption in 2010 and 2020.
+Table 4. Energy intensity, proportion and distance for various modes of transportation [25].
+Transportation modes Sea tanker Rail Pipeline: oil Pipeline: NG Water Way Road 1 a Road 2 a
+(kJ t−1
+ km−1
+)
+Energy intensity 23 240 300 372 148 1,362 1,200
+Proportion and distance (km)
+Coal 50%/1,000 17%/650 100%/50 8%/310
+NG 100% (1,500)
+Oil 50%/11,000 45%/950 80% (500) 10%/250
+Gasoline/Diesel 25%/7,000 50%/900 15%/1,200 10%/50
+Notes: a
+ Road 1 represents short distance, road 2 means long distance.
+Table 5. The energy consumption during the fuels’ production and transportation stage.
+Energies Coal NG Diesel Gasoline Biomass/Garbage a
+MJ/MJ MJ/MJ MJ/MJ MJ/MJ MJ/MJ
+CVs 0.08 0.12 0.21 0.22 0.10
+Note: a
+ The value was calculated based on the energy consumption in [27].
+Table 6. Calorific values (CVs) of different fuels in China.
+Energies Electricity Coal NG Oil Biomass Garbage
+kJ/kWh kJ/kg kJ/m3
+ kJ/kg kJ/kg kJ/kg
+CVs 3,600 20,908 [5] 38,931 [5] 42,652 [5] 15,054 [5] 15,545 [28]
+The total energy consumptions changes in the years of 2015 and 2020 will be estimated.
+Equations (5)–(10) give the calculation method:
+ENG ENG VKT P tf f − ,2015,min ,2015 2015 2015 = ×× (5)
+ENG ENG VKT P tf f − ,2015,max ,2010 2015 2015 = ×× (6)
+,2015 ,2015,max ,2015,min ( )/2 ENG ENG ENG tf tf tf −− − = + (7)
+,2020,min ,2015 2020 2015 ,2020 2020 2020 2015 ( ) ENG ENG VKT P ENG VKT P P tf f f − = × ×+ × × − (8)
+,2020,max ,2010 2020 2015 ,2015 2020 2020 2015 ( ) ENG ENG VKT P ENG VKT P P tf f f − = × ×+ × × − (9)
+Energies 2013, 6 2669
+,2020 ,2020,max ,2020,min ( )/2 ENG ENG ENG tf tf tf −− − = + (10)
+where ENGt-f,2015.min, ENGt-f,2015,max, ENGt-f,2015 and ENGt-f,2015.min, ENGt-f,2015,max, ENGt-f,2020 are the
+maximum, minimum and mean values of the fuel consumptions in 2015 and 2020, respectively;
+ENGf,2015 represents the fuel consumption for a single vehicle (g/km); VKT is the annual average travel
+mileages of a single vehicle that can be replaced by EVs or HEVs (km); P2015 is the number of EVs or
+HEVs. The VKT of CGVs and HEVs was about 19,134 km in 2010 [29]. This is much higher than that
+in the developed countries, which are mainly with a range of 10,000–18,000 km, due to the lower
+private car (PC) ownership rate (vehicles/1000 people) [30]. With the increasing PC ownership rate
+and the development of public transport, the frequency of PC usage will decrease [10,30] and the VKT
+for PCs can be expected to be 18,000 km in 2015 and 16,787 km in 2020 [29]. As for the EVs, the
+VKT was about 15,856 km (9910 miles), which was obtained based on real world driving
+data [31]. This value was less than that for the PC. Their limited range will have significant effects on
+the purchase intention of consumers and the penetration of EVs. However, the differences will change
+to become smaller and the influence of VKT will become lesser. In addition, the charging infrastructure
+construction and longer battery charging time could also affect the promotion of EVs. For the vehicle
+numbers, according to the Energy Saving and New Energy Vehicles Development Planning
+(2012–2020) document [26], the total numbers of EVs and HEVs in China in 2015 and 2020 should
+reach 500 thousand and five million, respectively. In this study, we will assess the energy and
+environmental implications of the electric vehicles promotion policy based on these two vehicle numbers.
+2.3. Emission Calculation
+The air pollutants, particles, greenhouse gases and heavy metals emission factors of CGVs, HEVs
+and EVs were calculated based on the energy consumption and the corresponding emission factors of
+fuel combustions, as shown in the following equations:
+EF ENG EF EF CGVs p f f p P T p CGVs U , ,,& , , =× + (11)
+EF ENG EF EF EF HEVs p f f p P T p HEVs U p B P , ,,& , , , =× + + − (12)
+,, ,,& ,, , ( ) EF ENG EF EF EF EVs f p f f p P T f p U p B P =× + + − (13)
+where subscript f includes coal, NG, oil, biomass and garbage; subscript p includes four main
+categories and 14 sub-categories, which are gaseous pollutants (SO2, NOX, VOC, CO and NH3),
+particles (PM10, PM2.5, OC and EC), greenhouse gases (CO2, N2O and CH4) and heavy metals (Pb and
+Hg); EFEVs,f,p is the emission factor of electric vehicles using the electricity generated by a certain kind
+of fuel combustion (g/km); ENGf is the fuel consumption for a single vehicle (kg/km or m3
+/km), which
+was calculated in Section 2.2; EFf,p,P&T and EFf,p,U are the emission factors during the stage of fuel
+production & transportation and usage (g/kg or g/m3
+), EFp,CGVs,U, EFp,HEVs,U and EFp,B–P are the
+emission factors of driving CGVs, driving HEVs and lithium-ion battery production, (g/km). The
+EFf,p,P&T and EFf,p,U are summarized and estimated based on previous studies, as shown in Tables 7 and 8.
+In addition to the emissions during the fuels production, transportation and usage, the production of
+battery is another substantial emission source in the life cycle of EVs [32]. Previous study indicated
+that the energy consumption of lithium-ion batteries for HEVs are 5.7 kJ/km coal, 3.9 kJ/km NG and
+Energies 2013, 6 2670
+2.0 kJ/km petroleum, which were directly obtained from the GREET model calculation (based on a
+U.S. grid mix) [33]. In order to reduce the effect caused by the limited range in the EVs’ promotion to
+the greatest extent, it is assumed that the EVs were with battery packs sized for 240 km of usable
+electric energy, and the energy consumptions for EVs were about 31.8 times of those for HEVs [32].
+Based on the corresponding CVs (Table 6) and emission factors (EFs) of combustion (Table 7) of
+different fuels, the EFp,B–P of lithium-ion battery production can be estimated. As for the CGVs and
+HEVs, because that the Euro III emission standard was being implemented in 2010 and the Euro IV
+and Euro V standards are expected to be implemented during the periods of 2010–2015 and 2015–2020,
+the emission factors of CGVs with Euro III, Euro IV and Euro V emission standards will be used to be
+compared with these of the EVs and HEVs in 2010, 2015 and 2020. The emission factors (EFs) of
+CGVs and HEVs were calculated by the EU’s COPERT IV model, which is thought more appropriate
+for China [10,34]. Driving condition was an important parameter for the COPERT model. In this study,
+we estimated the EFs of CGVs and HEVs under the city driving condition. And the average speed was
+assumed as 20 km/h [34]. The EFp,CGVs,U, EFp,HEVs,U and EFp,B–P are listed in Table 8.
+The method for calculating pollutants emissions is similar with that for the total energy
+consumption described in Section 2.2. The total pollutants emissions of vehicles can be estimated by
+the Equations (14)–(19):
+EMI EF VKT P p p ,2015,min ,2015 2015 2015 = ×× (14)
+EMI EF VKT P p p ,2015,max ,2010 2015 2015 = ×× (15)
+,2015 ,2015,max ,2015,min ( )/2 EMI EMI EMI
+pp p
+= + (16)
+,2020,min ,2015 2020 2015 ,2020 2020 2020 2015 ( ) EMI EF VKT P EF VKT P P pp p
+= × ×+ × × − (17)
+,2020,max ,2010 2020 2015 ,2015 2020 2020 2015 ( ) EMI EF VKT P EF VKT P P pp p
+= × ×+ × × − (18)
+,2020 ,2020,max ,2020,min ( )/2 EMI EMI EMI
+pp p
+= + (19)
+where EMIp,2015,min, EMIp,2015,max, EMIp,2015 and EMIp,2020,min, EMIp,2020,max, EMIp,2020 are the maximum,
+minimum and mean values of the total pollutant emissions in 2015 and 2020; EFp,2015 represents the
+pollutant emission factors considering the actual electricity generation ratios of various fuels (g/km);
+the meaning of VKT and P are the same as the description in Section 2.2.
+3. Results and Discussion
+3.1. Energy Implications of HEVs and EVs
+3.1.1. Per-Kilometer Energy Consumption
+Based on the method proposed in Section 2.2, the energy consumptions (ECs) for a single vehicle
+were calculated. As shown in Figure 2, with the development of vehicle technology, the energy
+consumptions of CGVs, HEVs and EVs will be decreasing in the future, by 6.1%–9.7% during
+2010–2015 and 8.5%–10.7% during 2015–2020. The increase of energy conversion efficiencies in the
+power generation process and the decrease of electricity transmission loss will also contribute to the
+reduction of the energy consumptions for EV
